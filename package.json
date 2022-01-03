@@ -1,0 +1,26 @@
+{
+  "name": "2FA",
+  "version": "1.0.4",
+  "description": "Implementation of 2FA HOTP/TOTP algorithms in Javascript/TypeScript. A HOTP and TOTP implementation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint *.js **/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/byolabisi/2FA.git"
+  },
+  "author": "Olabisi Emmanuel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/byolabisi/2FA/issues"
+  },
+  "homepage": "https://github.com/byolabisi/2FA",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^6.2.2",
+    "mocha": "^6.2.0"
+  }
+}
